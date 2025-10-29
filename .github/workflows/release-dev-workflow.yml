@@ -1,0 +1,23 @@
+#
+name: Release Dev Workflow
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  dev-release:
+    uses: diggsweden/reusable-ci/.github/workflows/release-dev-orchestrator.yml@1a7dcd9c5257495ebf141e4e4b4bac438a8aae56 # v2.0.0
+    permissions:
+      contents: read
+      packages: write
+    secrets: inherit
+    with:
+      # This template is documentation/reference - not a buildable project
+      # Projects using this template should set their actual type:
+      # maven, npm, gradle, python
+      project-type: maven
+      container-file: Containerfile
+      working-directory: .
+      # For NPM projects, enable NPM publishing:
+      # publish-npm: true
+      # node-version: "22"

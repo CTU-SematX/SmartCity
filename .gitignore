@@ -1,0 +1,17 @@
+
+
+# IDE
+.vscode
+.idea
+
+# Quality tool reports
+megalinter-reports
+mega-linter-reports
+
+# Cache directories
+.mypy_cache
+.ruff_cache
+__pycache__
+
+*/node_modules
+venv

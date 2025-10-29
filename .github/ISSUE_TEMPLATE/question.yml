@@ -1,0 +1,24 @@
+ 
+name: Question
+description: Ask a question!
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a question. Please keep it project focused and on-topic!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Optional)
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: question
+    attributes:
+      label: What are you curious about?
+      description: Please describe your question.
+    validations:
+      required: true

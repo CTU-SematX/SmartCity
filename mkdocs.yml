@@ -1,0 +1,23 @@
+site_name: My Docs
+site_url: https://sitename.example
+theme:
+  name: material
+  palette: 
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
