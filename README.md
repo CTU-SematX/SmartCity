@@ -23,10 +23,10 @@ Orion-Nginx: https://github.com/CTU-SematX/Orion-Nginx [![version](https://img.s
 
 ## Demo Services
 
-- **Dashboard:** https://dashboard.khoadev.id.vn  
-- **Server 1**(demo only): https://server1.khoadev.id.vn/swagger  
-- **Server 2**(demo only): https://server2.khoadev.id.vn/swagger
-- **Orion Grafana** (demo only): https://grafana.khoadev.id.vn
+- **Dashboard:** https://dashboard.khoadev.id.vn (deprecated)
+- **Server 1**(demo only): https://server1.khoadev.id.vn/swagger (deprecated)
+- **Server 2**(demo only): https://server2.khoadev.id.vn/swagger (deprecated)
+- **Orion Grafana** (demo only): https://grafana.khoadev.id.vn (deprecated)
 
 <img width="1898" height="858" alt="image" src="https://github.com/user-attachments/assets/818af258-ea4b-424b-a2a4-23d01e6fadf0" />
 
