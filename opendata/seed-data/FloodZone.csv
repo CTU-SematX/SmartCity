@@ -1,22 +1,16 @@
-﻿affectedPopulation,areaType,floodSeverity,id,isActive,location,name,observedAt,type,waterDepth
-1233,urban_road,high,urn:ngsi-ld:FloodZone:HCMC:e3e8d169-1fee-4e7a-a4da-9d675a8fbc91,True,Polygon with 9 vertices,Nguyễn Hữu Cảnh,"{'@type': 'DateTime', '@value': '2025-12-03T22:09:37Z'}",FloodZone,1.16
-276,urban_road,low,urn:ngsi-ld:FloodZone:HCMC:4828ea7f-97b7-41f3-acd5-7a48631c48b8,True,Polygon with 11 vertices,Phú Mỹ Hưng - Nguyễn Văn Linh,"{'@type': 'DateTime', '@value': '2025-12-08T04:26:12Z'}",FloodZone,0.77
-717,lowland,high,urn:ngsi-ld:FloodZone:HCMC:f7602a25-f82e-4667-9c1e-aac702e27d65,True,Polygon with 8 vertices,Bình Chánh - Quốc Lộ 1A,"{'@type': 'DateTime', '@value': '2025-12-06T21:45:15Z'}",FloodZone,0.4
-538,urban_road,medium,urn:ngsi-ld:FloodZone:HCMC:57397956-ee56-4597-af30-5f2ad7a42457,True,Polygon with 8 vertices,Bình Thạnh - Xô Viết Nghệ Tĩnh,"{'@type': 'DateTime', '@value': '2025-12-05T21:51:10Z'}",FloodZone,0.43
-451,agricultural,low,urn:ngsi-ld:FloodZone:HCMC:1fe5f76a-89c6-4663-bb3b-79ff270a719a,False,Polygon with 9 vertices,Củ Chi - Tỉnh Lộ 8,"{'@type': 'DateTime', '@value': '2025-12-03T22:42:37Z'}",FloodZone,0.12
-468,urban_road,medium,urn:ngsi-ld:FloodZone:HCMC:c2bbb03e-bbd6-437e-8554-5f8f5c1ccd67,True,Polygon with 11 vertices,Thủ Đức - Võ Văn Ngân,"{'@type': 'DateTime', '@value': '2025-12-05T12:14:18Z'}",FloodZone,1.58
-840,agricultural,medium,urn:ngsi-ld:FloodZone:HCMC:f289ce8f-c16b-4b76-b7a5-2f1a8a9abdd5,True,Polygon with 10 vertices,Hóc Môn - Phan Văn Hớn,"{'@type': 'DateTime', '@value': '2025-12-02T07:25:48Z'}",FloodZone,1.49
-940,urban_road,medium,urn:ngsi-ld:FloodZone:HCMC:5c4db472-ee59-4fa8-a1c4-bc5413087daa,True,Polygon with 9 vertices,Tân Bình - Cộng Hòa,"{'@type': 'DateTime', '@value': '2025-12-03T08:47:46Z'}",FloodZone,1.27
-456,residential,high,urn:ngsi-ld:FloodZone:HCMC:7b255c45-4976-4e8a-8943-097b9917e108,True,Polygon with 8 vertices,Thảo Điền,"{'@type': 'DateTime', '@value': '2025-12-07T12:46:07Z'}",FloodZone,1.27
-334,highway,medium,urn:ngsi-ld:FloodZone:HCMC:a20ae071-dd2a-4e7a-8816-810c98fa2b4e,True,Polygon with 9 vertices,An Phú - Xa Lộ Hà Nội,"{'@type': 'DateTime', '@value': '2025-12-04T07:40:42Z'}",FloodZone,0.71
-124,urban_road,medium,urn:ngsi-ld:FloodZone:HCMC:4e7d0381-eb85-4aa4-a905-7bcfdd91fcdb,True,Polygon with 9 vertices,Gò Vấp - Nguyễn Oanh,"{'@type': 'DateTime', '@value': '2025-12-04T15:01:32Z'}",FloodZone,0.43
-948,canal_side,medium,urn:ngsi-ld:FloodZone:HCMC:01fb6613-ef4f-438e-8063-4ffcedb2ba78,True,Polygon with 9 vertices,Tân Phú - Âu Cơ,"{'@type': 'DateTime', '@value': '2025-12-06T11:16:06Z'}",FloodZone,0.94
-621,canal_side,high,urn:ngsi-ld:FloodZone:HCMC:313f9a92-772a-4250-bf8d-70042027e78b,True,Polygon with 10 vertices,Quận 6 - Hậu Giang,"{'@type': 'DateTime', '@value': '2025-12-07T09:27:24Z'}",FloodZone,0.77
-936,lowland,high,urn:ngsi-ld:FloodZone:HCMC:c7011283-e30c-4c56-a908-e398a5b645e3,True,Polygon with 7 vertices,Nhà Bè - Lê Văn Lương,"{'@type': 'DateTime', '@value': '2025-12-03T20:02:18Z'}",FloodZone,0.75
-588,residential,high,urn:ngsi-ld:FloodZone:HCMC:8e4b8b8f-7289-42d4-8490-979955ea3195,False,Polygon with 8 vertices,Bình Tân - Tên Lửa,"{'@type': 'DateTime', '@value': '2025-12-09T04:51:44Z'}",FloodZone,2.22
-372,urban_road,high,urn:ngsi-ld:FloodZone:HCMC:3cf1401e-af6d-44f7-9230-892f88c4e9a2,False,Polygon with 7 vertices,Linh Đông - Phạm Văn Đồng,"{'@type': 'DateTime', '@value': '2025-12-03T06:20:57Z'}",FloodZone,1.68
-526,intersection,medium,urn:ngsi-ld:FloodZone:HCMC:338ccdd0-1ddb-4382-a024-9af92715f2e0,False,Polygon with 11 vertices,Hàng Xanh Intersection,"{'@type': 'DateTime', '@value': '2025-12-10T04:32:49Z'}",FloodZone,1.1
-1236,coastal,high,urn:ngsi-ld:FloodZone:HCMC:adcaa24e-ac9b-45bb-9bca-3c6ca02a585a,True,Polygon with 10 vertices,Cần Giờ - Ven Biển,"{'@type': 'DateTime', '@value': '2025-12-08T22:29:48Z'}",FloodZone,1.38
-206,canal_side,medium,urn:ngsi-ld:FloodZone:HCMC:2d95bbaa-2fcc-4a1e-b492-3e3b94faa170,False,Polygon with 8 vertices,Quận 11 - Lạc Long Quân,"{'@type': 'DateTime', '@value': '2025-12-06T12:09:41Z'}",FloodZone,1.42
-825,canal_side,high,urn:ngsi-ld:FloodZone:HCMC:539df175-81b6-4b24-b31d-1f6896170fd4,True,Polygon with 7 vertices,Quận 8 - Bến Phú Định,"{'@type': 'DateTime', '@value': '2025-12-04T07:25:10Z'}",FloodZone,2.22
-852,urban_road,medium,urn:ngsi-ld:FloodZone:HCMC:b927204c-a479-416f-b7b2-c5f30877606a,True,Polygon with 9 vertices,Thủ Đức - Võ Văn Ngân (Extended),"{'@type': 'DateTime', '@value': '2025-12-04T20:09:37Z'}",FloodZone,1.52
+affectedPopulation,areaType,floodSeverity,id,isActive,location,name,observedAt,type,waterDepth
+1233,urban_road,high,urn:ngsi-ld:FloodMonitoring:HCMC:zone-nguyen-huu-canh,True,"10.7915,106.7214",Nguyễn Hữu Cảnh,2025-12-03T22:09:37Z,FloodMonitoring,1.16
+276,urban_road,low,urn:ngsi-ld:FloodMonitoring:HCMC:zone-phu-my-hung,True,"10.7220,106.7015",Phú Mỹ Hưng - Nguyễn Văn Linh,2025-12-08T04:26:12Z,FloodMonitoring,0.77
+717,lowland,high,urn:ngsi-ld:FloodMonitoring:HCMC:zone-binh-chanh,True,"10.6750,106.5950",Bình Chánh - Quốc Lộ 1A,2025-12-06T21:45:15Z,FloodMonitoring,0.40
+538,urban_road,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-binh-thanh,True,"10.8025,106.7089",Bình Thạnh - Xô Viết Nghệ Tĩnh,2025-12-05T21:51:10Z,FloodMonitoring,0.43
+451,agricultural,low,urn:ngsi-ld:FloodMonitoring:HCMC:zone-cu-chi,False,"10.9735,106.4930",Củ Chi - Tỉnh Lộ 8,2025-12-03T22:42:37Z,FloodMonitoring,0.12
+468,urban_road,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-thu-duc,True,"10.8544,106.7538",Thủ Đức - Võ Văn Ngân,2025-12-05T12:14:18Z,FloodMonitoring,1.58
+840,agricultural,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-hoc-mon,True,"10.8873,106.5925",Hóc Môn - Phan Văn Hớn,2025-12-02T07:25:48Z,FloodMonitoring,1.49
+940,urban_road,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-tan-binh,True,"10.8018,106.6542",Tân Bình - Cộng Hòa,2025-12-03T08:47:46Z,FloodMonitoring,1.27
+456,residential,high,urn:ngsi-ld:FloodMonitoring:HCMC:zone-thao-dien,True,"10.8048,106.7385",Thảo Điền,2025-12-07T12:46:07Z,FloodMonitoring,1.27
+334,highway,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-an-phu,True,"10.7940,106.7470",An Phú - Xa Lộ Hà Nội,2025-12-04T07:40:42Z,FloodMonitoring,0.71
+124,urban_road,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-go-vap,True,"10.8380,106.6650",Gò Vấp - Nguyễn Oanh,2025-12-04T15:01:32Z,FloodMonitoring,0.43
+948,canal_side,medium,urn:ngsi-ld:FloodMonitoring:HCMC:zone-tan-phu,True,"10.7917,106.6282",Tân Phú - Âu Cơ,2025-12-06T11:16:06Z,FloodMonitoring,0.94
+621,canal_side,high,urn:ngsi-ld:FloodMonitoring:HCMC:zone-quan6,True,"10.7470,106.6352",Quận 6 - Hậu Giang,2025-12-07T09:27:24Z,FloodMonitoring,0.77
+936,lowland,high,urn:ngsi-ld:FloodMonitoring:HCMC:zone-nha-be,True,"10.6940,106.7050",Nhà Bè - Lê Văn Lương,2025-12-03T20:02:18Z,FloodMonitoring,0.75
+588,residential,high,urn:ngsi-ld:FloodMonitoring:HCMC:zone-binh-tan,False,"10.7660,106.6035",Bình Tân - Tên Lửa,2025-12-09T04:51:44Z,FloodMonitoring,2.22

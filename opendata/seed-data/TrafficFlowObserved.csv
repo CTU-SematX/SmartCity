@@ -1,29 +1,21 @@
-﻿averageVehicleSpeed,congestionIndex,id,location,observedAt,roadName,type,vehicleCount
-5,0.457,urn:ngsi-ld:TrafficFlowObserved:HCMC:63a7dade-98a8-4db0-8862-2b78544a29e7,LineString with 6 points,2025-12-03T14:39:43Z,Nguyễn Tất Thành,TrafficFlowObserved,191
-49,0.636,urn:ngsi-ld:TrafficFlowObserved:HCMC:13702189-e6c5-4ec4-bc1c-5454cee6eb0e,LineString with 5 points,2025-12-07T16:03:25Z,Calmette,TrafficFlowObserved,166
-11,0.064,urn:ngsi-ld:TrafficFlowObserved:HCMC:ab1cef6e-0e2e-43f2-88fd-814bf4b6a921,LineString with 2 points,2025-12-06T18:18:34Z,Cầu Thị Nghè 1,TrafficFlowObserved,69
-31,0.806,urn:ngsi-ld:TrafficFlowObserved:HCMC:c440e383-1761-46d0-a5fa-450719ef084b,LineString with 18 points,2025-12-09T00:54:12Z,Nguyễn Tri Phương,TrafficFlowObserved,83
-12,0.592,urn:ngsi-ld:TrafficFlowObserved:HCMC:efa105e2-e23e-4dc4-969c-95b8bb6e0418,LineString with 9 points,2025-12-06T15:41:03Z,Thành Thái,TrafficFlowObserved,108
-21,0.491,urn:ngsi-ld:TrafficFlowObserved:HCMC:d3ac9f21-0d5d-47bc-87a0-7ae4434a6a54,LineString with 10 points,2025-12-04T03:34:45Z,Lý Thái Tổ,TrafficFlowObserved,74
-14,0.232,urn:ngsi-ld:TrafficFlowObserved:HCMC:ddbf854a-1f38-44b5-b297-6bd8fe0260bc,LineString with 36 points,2025-12-04T09:05:03Z,Đường Nguyễn Đức Cảnh,TrafficFlowObserved,20
-54,0.517,urn:ngsi-ld:TrafficFlowObserved:HCMC:0ce45a06-191b-41fa-8c69-4da2c739abe8,LineString with 8 points,2025-12-04T19:07:02Z,Đường Trần Văn Trà,TrafficFlowObserved,64
-27,0.943,urn:ngsi-ld:TrafficFlowObserved:HCMC:eb2e09df-3896-438c-b84a-39914aa11a8a,LineString with 3 points,2025-12-06T21:20:58Z,Cầu Thầy Tiêu,TrafficFlowObserved,183
-27,0.783,urn:ngsi-ld:TrafficFlowObserved:HCMC:c2240d64-36b2-4e68-92f2-a1f5ef116074,LineString with 3 points,2025-12-06T17:58:43Z,Cầu Đa Khoa,TrafficFlowObserved,117
-42,0.506,urn:ngsi-ld:TrafficFlowObserved:HCMC:d4c8d264-ea06-4049-9f4f-52a6c6fff462,LineString with 5 points,2025-12-04T16:52:39Z,Nguyễn Văn Bá,TrafficFlowObserved,179
-26,0.177,urn:ngsi-ld:TrafficFlowObserved:HCMC:08c0ec0f-b85a-4ca4-bd93-a98cd191e675,LineString with 18 points,2025-12-02T16:55:30Z,Đường số 5,TrafficFlowObserved,199
-14,0.729,urn:ngsi-ld:TrafficFlowObserved:HCMC:cfcebf0e-2dbc-4ee3-81b3-e4999b469db0,LineString with 51 points,2025-12-10T02:25:46Z,Tam Bình,TrafficFlowObserved,189
-42,0.858,urn:ngsi-ld:TrafficFlowObserved:HCMC:cdfc76cd-b947-4931-95e5-6df06b40bfd4,LineString with 24 points,2025-12-07T04:01:58Z,Đặng Văn Bi,TrafficFlowObserved,47
-19,0.205,urn:ngsi-ld:TrafficFlowObserved:HCMC:84de49c2-a0a5-41ac-85a2-cd88f98624f5,LineString with 2 points,2025-12-07T10:09:59Z,Cầu Bình Phú,TrafficFlowObserved,93
-29,0.632,urn:ngsi-ld:TrafficFlowObserved:HCMC:611a3828-5c0c-4010-a45a-7e37d7ef10fe,LineString with 17 points,2025-12-03T08:42:13Z,Tây Hòa,TrafficFlowObserved,94
-50,0.742,urn:ngsi-ld:TrafficFlowObserved:HCMC:33f26bb6-7930-459c-8238-8d978471ed73,LineString with 18 points,2025-12-03T04:31:22Z,Ung Văn Khiêm,TrafficFlowObserved,92
-53,0.292,urn:ngsi-ld:TrafficFlowObserved:HCMC:e092d12d-207f-4288-9a1e-8e4aecb92676,LineString with 5 points,2025-12-05T02:48:49Z,Cầu Kinh Thanh Đa,TrafficFlowObserved,136
-47,0.207,urn:ngsi-ld:TrafficFlowObserved:HCMC:006e5204-fee1-497a-a212-c7a9ceb61869,LineString with 4 points,2025-12-07T08:08:03Z,Cầu Bình Triệu 1,TrafficFlowObserved,13
-29,0.663,urn:ngsi-ld:TrafficFlowObserved:HCMC:017666ab-4f71-449e-84f7-610d8d0f1e32,LineString with 84 points,2025-12-05T05:52:38Z,Phổ Quang,TrafficFlowObserved,159
-9,0.756,urn:ngsi-ld:TrafficFlowObserved:HCMC:e288c4b5-ca59-43cf-bbeb-9b1efcd726fa,LineString with 6 points,2025-12-08T06:19:48Z,Đường 18E,TrafficFlowObserved,167
-58,0.63,urn:ngsi-ld:TrafficFlowObserved:HCMC:efae0044-5399-4ea7-998f-d927bade2b71,LineString with 2 points,2025-12-06T09:22:03Z,Phan Đình Giót,TrafficFlowObserved,40
-15,0.867,urn:ngsi-ld:TrafficFlowObserved:HCMC:0791d03e-3cfe-47f8-924e-41b3dba900bc,LineString with 11 points,2025-12-02T09:08:38Z,Nguyễn Oanh,TrafficFlowObserved,195
-12,0.77,urn:ngsi-ld:TrafficFlowObserved:HCMC:d61d38e6-f20a-4d7d-8644-2c86038d5e57,LineString with 19 points,2025-12-05T23:16:36Z,Lê Văn Thọ,TrafficFlowObserved,52
-49,0.249,urn:ngsi-ld:TrafficFlowObserved:HCMC:e5cd200e-86a6-4571-a955-929729d3f1d2,LineString with 14 points,2025-12-07T14:21:22Z,Phạm Ngũ Lão,TrafficFlowObserved,157
-59,0.172,urn:ngsi-ld:TrafficFlowObserved:HCMC:ed59ee69-5dcc-4ff0-9620-5ce6152b3be7,LineString with 6 points,2025-12-08T06:05:52Z,Nguyễn Tất Thành,TrafficFlowObserved,146
-55,0.745,urn:ngsi-ld:TrafficFlowObserved:HCMC:07126475-2539-404e-9233-5df029ca63f5,LineString with 5 points,2025-12-03T23:02:11Z,Calmette,TrafficFlowObserved,77
-14,0.923,urn:ngsi-ld:TrafficFlowObserved:HCMC:737e9a2b-9e49-4b95-b285-6ee130c7095a,LineString with 2 points,2025-12-05T21:40:51Z,Cầu Thị Nghè 1,TrafficFlowObserved,62
+averageVehicleSpeed,congestionIndex,id,location,observedAt,roadName,type,vehicleCount
+5,0.457,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-nguyen-tat-thanh,"10.7585,106.7040",2025-12-03T14:39:43Z,Nguyễn Tất Thành,TrafficFlowObserved,191
+49,0.636,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-calmette,"10.7760,106.6985",2025-12-07T16:03:25Z,Calmette,TrafficFlowObserved,166
+11,0.064,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-thi-nghe,"10.7880,106.7015",2025-12-06T18:18:34Z,Cầu Thị Nghè 1,TrafficFlowObserved,69
+31,0.806,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-nguyen-tri-phuong,"10.7625,106.6695",2025-12-09T00:54:12Z,Nguyễn Tri Phương,TrafficFlowObserved,83
+12,0.592,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-thanh-thai,"10.7720,106.6665",2025-12-06T15:41:03Z,Thành Thái,TrafficFlowObserved,108
+21,0.491,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-ly-thai-to,"10.7690,106.6820",2025-12-04T03:34:45Z,Lý Thái Tổ,TrafficFlowObserved,74
+14,0.232,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-nguyen-duc-canh,"10.7450,106.7080",2025-12-04T09:05:03Z,Đường Nguyễn Đức Cảnh,TrafficFlowObserved,20
+54,0.517,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-tran-van-tra,"10.7520,106.6950",2025-12-04T19:07:02Z,Đường Trần Văn Trà,TrafficFlowObserved,64
+27,0.943,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-thay-tieu,"10.7350,106.7120",2025-12-06T21:20:58Z,Cầu Thầy Tiêu,TrafficFlowObserved,183
+27,0.783,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-da-khoa,"10.7420,106.7085",2025-12-06T17:58:43Z,Cầu Đa Khoa,TrafficFlowObserved,117
+42,0.506,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-nguyen-van-ba,"10.8520,106.7565",2025-12-04T16:52:39Z,Nguyễn Văn Bá,TrafficFlowObserved,179
+26,0.177,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-duong-so-5,"10.7550,106.6980",2025-12-02T16:55:30Z,Đường số 5,TrafficFlowObserved,199
+14,0.729,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-tam-binh,"10.8480,106.7620",2025-12-10T02:25:46Z,Tam Bình,TrafficFlowObserved,189
+42,0.858,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-dang-van-bi,"10.8515,106.7545",2025-12-07T04:01:58Z,Đặng Văn Bi,TrafficFlowObserved,47
+19,0.205,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-binh-phu,"10.7580,106.6580",2025-12-07T10:09:59Z,Cầu Bình Phú,TrafficFlowObserved,93
+29,0.632,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-tay-hoa,"10.8420,106.7480",2025-12-03T08:42:13Z,Tây Hòa,TrafficFlowObserved,94
+50,0.742,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-ung-van-khiem,"10.8085,106.7165",2025-12-03T04:31:22Z,Ung Văn Khiêm,TrafficFlowObserved,92
+53,0.292,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-thanh-da,"10.8120,106.7230",2025-12-05T02:48:49Z,Cầu Kinh Thanh Đa,TrafficFlowObserved,136
+47,0.207,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-binh-trieu,"10.8185,106.7210",2025-12-07T08:08:03Z,Cầu Bình Triệu 1,TrafficFlowObserved,13
+29,0.663,urn:ngsi-ld:TrafficFlowObserved:HCMC:road-pho-quang,"10.7940,106.6660",2025-12-05T05:52:38Z,Phổ Quang,TrafficFlowObserved,159
